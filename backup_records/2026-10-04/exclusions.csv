@@ -1,0 +1,6 @@
+project,path,reason,size
+templete,src/__pycache__/,runtime_or_link,
+templete,src/EDA/__pycache__/,runtime_or_link,
+templete,src/features/__pycache__/,runtime_or_link,
+templete,src/models/__pycache__/,runtime_or_link,
+templete,src/tests/__pycache__/,runtime_or_link,

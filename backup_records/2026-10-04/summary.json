@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-04",
+  "timezone": "Asia/Seoul",
+  "repository": "yunseo326/datastudy_templete",
+  "branch": "backup/2026-10-04",
+  "parent_commit": "4ebb8fadfb0f2c5baf629db1fa9421c30b237369",
+  "original_remote_main": null,
+  "selected_file_count": 42,
+  "selected_bytes": 116715,
+  "new_or_changed_files": 42,
+  "source_projects": [
+    "templete"
+  ],
+  "sanitized_files": [],
+  "excluded_reason_counts": {
+    "runtime_or_link": 5
+  },
+  "restore_notes": "Reusable analysis template. No experiment or dataset yet. Install requirements.txt in a clean environment, populate data/, configure configs/baseline.json, and choose target, metric, and validation before the first baseline.",
+  "security_scan": {
+    "repo": "datastudy_templete",
+    "text_files": 42,
+    "bytes_scanned": 116757,
+    "binary_not_secret_text_scanned": [],
+    "finding_count": 0
+  },
+  "reviewed_noncredential_hash_findings": [],
+  "unresolved_findings": [],
+  "source_programs_executed": false,
+  "local_unpushed_history_uploaded": false,
+  "python_parse_errors": [],
+  "new_metadata_files": 4,
+  "deleted_from_backup_tree_only": []
+}
